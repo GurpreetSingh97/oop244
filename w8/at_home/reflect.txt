@@ -1,0 +1,11 @@
+REFLECTION:
+
+1. An abstract class can not be used to make an object where as a concere class can
+be used for the same purpose initally. In abstract class functions are not defined
+whereas in concerete class they are defines properly.
+2.In ChequingAccount "credit" and "debit" function are shadowing the "credit"
+and "debit" of Account class.
+3.From this workshop I learned how to use shadow functions. Moreover, my concept
+of inheritance became more clearer.
+
+QUIZ 10 REFLECTION:

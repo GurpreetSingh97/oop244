@@ -1,0 +1,10 @@
+
+In line number 11 of your output:
+The output should be:
+Monthly Fee: 2.00
+But your output is: 
+Monthly Fee:2.00
+            ^
+------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(32), dec(50)
