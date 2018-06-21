@@ -1,0 +1,20 @@
+1.The size of the C-Style character string that stores a family or given name
+for account is max_name_length + 1, the size is +1 because we need to allocate
+the memory for null terminator apart from the characters.
+
+2.C++ support the concept of function overloading. That is making the member
+function with same name but different number or type of parameters. Where as
+no such concept is in C, therefore it will give an error.
+
+3.In this workshop I have learned how to declare, define and use function
+overloads.Moreover, how and where to use / and % also got refreshed.
+
+
+
+QUIZ: 
+quiz2:
+After it I learned that if we don't call any constructor, the default
+constructor got called bt itself.
+quiz3:
+From my mistakes I learned that attributes name should be related to the
+class. Moreover, I should look after I type for typo mistakes.

@@ -1,0 +1,29 @@
+1. The safe empty state for a variable is a value which we assign it to get rid
+ of garbage value in it. Yes, we can define anyother safe empty state, it can be
+ anything,which the varible can't attain until the programmer assign so.
+
+2.we can minimise the code duplication by making a function for a part of code
+ which we has to use again and again. Then just by calling it we can complete the
+ same task.
+
+3.The canTravelWith() member function can access the private data of the object
+ referred in its parameter because thats the friends function do. They can access
+ the private part of the class to which they are friend.
+
+4.we need to check that the destination string length is always greater than the
+length of the source string. we can use if-else statement.
+
+
+5.From this workshop my ability to use constructors and dynamic memory enhanced,
+ and it become clear to me that what is safe empty space.Morover, how can a member
+ function can access a private attribute of a oblect.
+
+
+
+QUIZ:   
+1.Lets say we have a class in which the attributes are array. if we type array1+
+ array2, it won't make any sense. However, if we oveload the + operator, it will 
+ start making sense(eg:array1 will get joined to array to and so) and will made 
+ the code more efficent.
+ The operator overloading allows to have user defines meaning on user defined
+ classes of the operators.

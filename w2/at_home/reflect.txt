@@ -1,0 +1,18 @@
+1. We need to allocate new dynamic memory when we increase the size of an
+existing array of dynamically allocated memory because before that, the 
+memory allocated to it is not enough for the new elements, which we are 
+going to add now.
+
+2.No, we do not have any kind of memory leakege because in the end we are
+deallociate the object of struct Kingdom type, which is going to delete all
+the dynamic memory realated to it.
+
+3.The compiler knows which function to call on the basis of number of 
+arguments passed to the call of the function.
+
+4.From this workshop I learned, how to use structures, allocating and 
+deallocation of dynamic memory. Moreover, how to create and use function
+overloading.
+
+
+Quiz 2 Reflection: I got the perfect Score.

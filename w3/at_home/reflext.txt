@@ -1,0 +1,2 @@
+1. The size of a character String in C++ is max_name_length +1. The 1 is there because we
+need space for the null too. ("\0").

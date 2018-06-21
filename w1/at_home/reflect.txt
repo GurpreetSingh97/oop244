@@ -1,0 +1,10 @@
+1.When more than one person works on a single code there are chances that some of them might use the same identifier for different variables. This could raise a name conflict and to avoid this we use namespace, which limit the scope of each variable in its namespace.
+
+2.Whenever we need the same function or structure in different source file, we create header file. Now to use it, we just need to include it in the source file. Moreover, it helps in keeping the source file organised and increase its efficiency.
+
+3.The header file contains the definition of the structures and the function. When we compile the souce code, the definition gets linked to the source file. Therefore there is no need of compiling the .h files.
+
+4.The .cpp file contains the definition of function, variables constant or structures. If we include it in some other file then there will be an error related to duplication of definitions.
+
+5. First thing I learned from this workshop is the use of the namespace, which helps in preventing the name conflict in a code.
+Second thing is how to create and use .h files, which helps in organising the code file in a better way and increasing its quality.
