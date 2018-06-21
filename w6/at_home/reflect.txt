@@ -1,0 +1,18 @@
+1.The copy constructor assignment operator checks for self assignment before doing
+ anything else because in the implementation we are deallocating the memory of the
+ pointer, if both, the source and destination object are same, then all the
+ data from the pointer will be lost and there will be an error.
+
+2.By observing that which part of the code is coming into use again and again
+ and finally converting it into a private function helps in avaoiding the 
+ duplication.
+
+3.From this workshop I learned how to make and deal with copy constructors and
+ copy assignment operators. Moreover, I get to know dynamic memory and constructors 
+ in a better manner.
+
+
+
+QUIZ:
+In the last Quiz which comprises the decleration of copy assignment operators and
+copy constructors, my score was 9/10.

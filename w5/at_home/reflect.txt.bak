@@ -1,0 +1,10 @@
+1.The operator+ should return a Fraction object and not a reference to it, because
+the object is defined only in the curly brackets of the operator. We cannot return
+its reference as it is not defined out-side of the operator.
+2.The Fraction obj in the query operators is the temperorary object in this tester
+module.
+3.I added some private functions in my class, that cannot be accessed by the user
+4.From this workshop I learned how to create query and modifier operator overload.
+
+QUIZ:
+I got almost perfect score in ast quiz, that is 9/10.

@@ -1,0 +1,5 @@
+Script started on Fri 01 Dec 2017 03:51:46 PM EST
+gsingh520@matrix:~/oops/ms1> exit
+exit
+
+Script done on Fri 01 Dec 2017 03:51:49 PM EST

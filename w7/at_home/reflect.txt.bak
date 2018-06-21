@@ -1,0 +1,18 @@
+Reflect:
+1. No,"Hero" class does not need to know about the existence of the "SuperHero" 
+   class.
+2.Yes, SuperHero class need to know about the existence of "Hero" class, as it is
+  inherited from the "Hero" class. We do so by putting #include "Hero.h" in the
+  header file of "SuperHero" class.
+3.It print out "Ancient Battle!", when we make a Hero fight a SuperHero.
+4.
+
+Quiz: The quiz in which we had to read from a file.
+
+1. I didn't made a dynamic memory. It was required because comipiler will know it's
+   size only after compilation.
+   char* arr;
+   arr = new char[in];
+
+2. Moreover, I forget to close the file in the end.
+   in.close();
